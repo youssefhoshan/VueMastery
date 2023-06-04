@@ -35,10 +35,10 @@ npm install
 npm run serve
 4.Open your browser and visit http://localhost:8080 (or the URL provided by the development server) to see the application running.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-##Fork the repository.
+## Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and commit them.
 Push your changes to your fork.
@@ -46,7 +46,6 @@ Open a pull request, describing the changes you've made.
 License
 This project is licensed under the [MIT License](LICENSE).
 
-vbnet
-##Copy code
+## Copy code
 
 Feel free to copy and paste this into your GitHub repository's!
